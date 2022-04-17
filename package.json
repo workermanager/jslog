@@ -1,5 +1,5 @@
 {
-  "name": "wmlog",
+  "name": "jslog",
   "main": "./lib/index.js",
   "scripts": {
     "build": "npx tsc",
